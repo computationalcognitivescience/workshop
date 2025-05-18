@@ -1,8 +1,8 @@
 ---
 permalink: /past/
-title: "2024"
+title: "Previous iterations"
 author_profile: false
 ---
 
 
-In 2024, we
+In 2024, we organised the Theoretical Modeling workshop for the first time.

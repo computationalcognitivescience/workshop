@@ -19,36 +19,63 @@ The Theoretical Modeling Workshop is open to interested master's students and Ph
 
 The workshop will take place from September X till October X. Physical presence in Nijmegen is not required in order to participate, as all of the contact sessions will be held online.
 
+## Opening lecture
+
+{% include video id="7WFaI4R88J8" provider="youtube" %}
+
 ## Schedule
 
 Week | Date and time | Activity type | Activity 
 -----|---------------|---------------|----------
 **1**  |  | :book: | Read [Chapter 1](https://computationalcognitivescience.github.io/lovelace/part_i/intro) and [Chapter 2](https://computationalcognitivescience.github.io/lovelace/part_i/foundations) of the [Theoretical Modeling textbook](https://computationalcognitivescience.github.io/lovelace), read [van Rooij & Baggio (2021)](https://journals.sagepub.com/doi/full/10.1177/1745691620970604) and watch the video of the opening lecture (optional: [Cummins (2000)](https://doi.org/10.7551/mitpress/2930.003.0009) [:page_facing_up:](https://www.researchgate.net/profile/Robert-Cummins-4/publication/282926459_%27How_does_it_Work%27_vs_%27What_are_the_Laws%27_Two_Conceptions_of_Psychological_Explanation/links/5fac2471299bf18c5b68d4fe/How-does-it-Work-vs-What-are-the-Laws-Two-Conceptions-of-Psychological-Explanation.pdf))
-| Thursday, September 5, 13:30–15.30 | :busts_in_silhouette: | Welcome meeting | 
+| Thursday, September 4, 13.30–15.30 | :busts_in_silhouette: | Welcome meeting | 
 **2** | | :book: | Read [Chapter 3](https://computationalcognitivescience.github.io/lovelace/part_ii/math) and [Chapter 4](https://computationalcognitivescience.github.io/lovelace/part_ii/subset) (optional: [van Rooij and Blokpoel (2020)](https://doi.org/10.1027/1864-9335/a000428) [:page_facing_up:](https://osf.io/r2zqy/download/))
-| Thursday, September 12, 13:30–16.30 | :busts_in_silhouette: :pencil: | Formalisation Practice I | 
+| Thursday, September 11, 13.30–16.30 | :busts_in_silhouette: :pencil: | Formalization Practice I | 
 |  | :pencil: | Read feedback on the first formalisation practice exercise | 
-**3** | Thursday, September 19, 13:30–16.30 | :busts_in_silhouette: :pencil: | Formalisation Practice II | 
-**4** | September 23–29 | :surfer: | Break | 
+**3** | Thursday, September 18, 13.30–16.30 | :busts_in_silhouette: :pencil: | Formalization Practice II | 
+**4** | September 22–28 | :surfer: | Break | 
 **5** | | :book: :pencil: | Select and read a paper for the assessment exercise (optional: [Hahn et al. 2003](https://doi.org/10.1016/S0010-0277(02)00184-1) [:page_facing_up:](https://pcl.sitehost.iu.edu/rgoldsto/courses/concepts/hahnsim.pdf) or a different paper in your domain of interest) |
 | | :pencil: | Start working on the assessment exercise |
 **6** | | :pencil: | Finish working on the assessment exercise | 
-**7** | October 17, 13:30–15:30 | :busts_in_silhouette: | Closing session with QA, reflections, discussion, feedback |
+**7** | October 16, 13.30–15.30 | :busts_in_silhouette: | Closing session with QA, reflections, discussion, feedback |
 
 
 
 ## Organizers
 
-----------|-----|------
-[![](/assets/images/Natalia.webp)](https://www.ru.nl/personen/scharfenberg-n) | | **Natalia Scharfenberg** is a PhD candidate working on meta-theory in the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group, and a junior lecturer at the Cognitive Science and Artificial Intelligence department at Radboud University. She coordinates this workshop.| 
-[![](/assets/images/Mark.webp)](https://markblokpoel.com) | | **Mark Blokpoel** is a computer scientist and computational cognitive scientist. He is an assistant professor at the Cognitive Science and AI department and a senior researcher in the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group. He coordinates the Radboud-Aarhus Computational Cognitive Science collaboration. | 
-[![](/assets/images/Iris.webp)](https://irisvanrooijcogsci.com) | | **Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor and PI of the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group and Head of the Cognitive Science and AI department. She is also a guest professor at Aarhus University. 
-[![](/assets/images/Josh.jpg)](https://pure.au.dk/portal/en/persons/filjcs%40cc.au.dk) | | **Joshua Skewes** is an associate professor in Cognitive Science. He is Head of [Department for Linguistics, Cognitive Science, and Semiotics](https://cc.au.dk/en/about-the-school/departments/linguistics-cognitive-science-and-semiotics), and Head of Department of Culture, Cognition, and Computation at Aarhus University, Denmark. |
+<figure style="width: 80px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Natalia.webp" alt="Natalia">
+</figure>
 
-## TA  
+**Natalia Scharfenberg** is a PhD candidate working on meta-theory in the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group, and a junior lecturer at the Cognitive Science and AI department at Radboud University. She coordinates this workshop.
 
-----------|-----|------
-[![](/assets/images/Moulshree.jpg)](https://www.ru.nl/en/people/rana-m) | | **Moulshree Rana** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. | 
+<figure style="width: 80px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Mark.webp" alt="Mark">
+</figure>
+
+**Mark Blokpoel** is a computer scientist and computational cognitive scientist. He is an assistant professor at the Cognitive Science and AI department and a senior researcher in the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group. He coordinates the Radboud-Aarhus Computational Cognitive Science collaboration.
+
+<figure style="width: 80px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Iris.webp" alt="Iris">
+</figure>
+
+**Iris van Rooij** is a psychologist and computational cognitive scientist. She is a professor and PI of the [Computational Cognitive Science](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) group and Head of the Cognitive Science and AI department. She is also a guest professor at Aarhus University.
+
+<figure style="width: 80px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Josh.jpg" alt="Joshua">
+</figure>
+
+**Joshua Skewes** is an associate professor in Cognitive Science. He is Head of [Department for Linguistics, Cognitive Science, and Semiotics](https://cc.au.dk/en/about-the-school/departments/linguistics-cognitive-science-and-semiotics), and Head of Department of Culture, Cognition, and Computation at Aarhus University, Denmark.
+
+## Teaching Assistant  
+
+<figure style="width: 80px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Moulshree.jpg" alt="Moulshree">
+</figure>
+
+**Moulshree Rana** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  
+
+<br>
 
 ## License
 
@@ -63,4 +90,12 @@ We thank [Katarzyna Gugnowska](https://www.cbs.mpg.de/person/gugnowska/1843226) 
 
 ## Contact
 
-For questions related to the workshop, please contact [Natalia](mailto:natalia.scharfenberg@donders.ru.nl), and CC [Iris](mailto:iris.vanrooij@donders.ru.nl) and [Mark](mailto:mark.blokpoel@donders.ru.nl).
+For questions about the workshop please contact [Natalia](mailto:natalia.scharfenberg@donders.ru.nl) and CC [Iris](mailto:iris.vanrooij@donders.ru.nl) and [Mark](mailto:mark.blokpoel@donders.ru.nl).
+
+<br>
+
+|---|:----:|---| :-----:|-----|
+|| [![](/assets/images/ccs.webp)](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) | | [![](/assets/images/Aarhus.png)](https://international.au.dk) ||
+|| [![](/assets/images/ru_logo.svg)](https://www.ru.nl) | |  [![](/assets/images/donders_logo.svg)](https://www.ru.nl/en/donders-institute) ||
+||[![](/assets/images/logo-NIAS_rood.png)](https://nias.knaw.nl) | | [![](/assets/images/lorentz.jpg)](https://www.lorentzcenter.nl) ||
+|| [![](/assets/images/it-vest.jpg)](https://www.it-vest.dk)
