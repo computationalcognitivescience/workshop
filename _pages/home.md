@@ -17,7 +17,7 @@ A theoretical model describes, in a precise (formal) language, how we think that
 
 The Theoretical Modeling Workshop is open to interested master's students and PhD candidates. Check out the full schedule below. Please note that all times for the contact sessions listed below are [CEST](https://en.wikipedia.org/wiki/Central_European_Summer_Time).
 
-The workshop will take place from September X till October X. Physical presence in Nijmegen is not required in order to participate, as all of the contact sessions will be held online.
+The workshop will take place between September X and October X. Physical presence in Nijmegen is not required in order to participate, as all of the contact sessions will be held online.
 
 ## Opening lecture
 
