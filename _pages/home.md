@@ -73,7 +73,7 @@ Week | Date and time | Activity type | Activity
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Moulshree.jpg" alt="Moulshree">
 </figure>
 
-**Moulshree Rana** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  
+**Moulshree Rana** 
 
 <br>
 
