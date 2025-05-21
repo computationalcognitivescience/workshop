@@ -17,7 +17,7 @@ A theoretical model describes, in a precise (formal) language, how we think that
 
 The Theoretical Modeling Workshop is open to interested master's students and PhD candidates. Check out the full schedule below. Please note that all times for the contact sessions listed below are [CEST](https://en.wikipedia.org/wiki/Central_European_Summer_Time).
 
-The workshop will take place between September X and October X. Physical presence in Nijmegen is not required in order to participate, as all of the contact sessions will be held online.
+The workshop will take place between September 4 and October 16. Physical presence in Nijmegen is not required in order to participate, as all of the contact sessions will be held online.
 
 ## Opening lecture
 
@@ -32,8 +32,8 @@ Week | Date and time | Activity type | Activity
 **2** | | :book: | Read [Chapter 3](https://computationalcognitivescience.github.io/lovelace/part_ii/math) and [Chapter 4](https://computationalcognitivescience.github.io/lovelace/part_ii/subset) (optional: [van Rooij and Blokpoel (2020)](https://doi.org/10.1027/1864-9335/a000428) [:page_facing_up:](https://osf.io/r2zqy/download/))
 | Thursday, September 11, 13.30–16.30 | :busts_in_silhouette: :pencil: | Formalization Practice I | 
 |  | :pencil: | Read feedback on the first formalisation practice exercise | 
-**3** | Thursday, September 18, 13.30–16.30 | :busts_in_silhouette: :pencil: | Formalization Practice II | 
-**4** | September 22–28 | :surfer: | Break | 
+**3** |  |  | | 
+**4** | Thursday, September 25, 13.30–16.30 | :busts_in_silhouette: :pencil: | Formalization Practice II | 
 **5** | | :book: :pencil: | Select and read a paper for the assessment exercise (optional: [Hahn et al. 2003](https://doi.org/10.1016/S0010-0277(02)00184-1) [:page_facing_up:](https://pcl.sitehost.iu.edu/rgoldsto/courses/concepts/hahnsim.pdf) or a different paper in your domain of interest) |
 | | :pencil: | Start working on the assessment exercise |
 **6** | | :pencil: | Finish working on the assessment exercise | 
@@ -67,14 +67,15 @@ Week | Date and time | Activity type | Activity
 
 **Joshua Skewes** is an associate professor in Cognitive Science. He is Head of [Department for Linguistics, Cognitive Science, and Semiotics](https://cc.au.dk/en/about-the-school/departments/linguistics-cognitive-science-and-semiotics), and Head of Department of Culture, Cognition, and Computation at Aarhus University, Denmark.
 
-## Teaching Assistant  
-
 <figure style="width: 80px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Moulshree.jpg" alt="Moulshree">
 </figure>
 
 **Moulshree Rana** 
 
+<br> 
+<br>
+<br>
 <br>
 
 ## License
@@ -90,12 +91,12 @@ We thank [Katarzyna Gugnowska](https://www.cbs.mpg.de/person/gugnowska/1843226) 
 
 ## Contact
 
-For questions about the workshop please contact [Natalia](mailto:natalia.scharfenberg@donders.ru.nl) and CC [Iris](mailto:iris.vanrooij@donders.ru.nl) and [Mark](mailto:mark.blokpoel@donders.ru.nl).
+For questions about the workshop please get in touch with [Natalia](mailto:natalia.scharfenberg@donders.ru.nl).
 
 <br>
 
 |---|:----:|---| :-----:|-----|
-|| [![](/assets/images/ccs.webp)](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) | | [![](/assets/images/Aarhus.png)](https://international.au.dk) ||
-|| [![](/assets/images/ru_logo.svg)](https://www.ru.nl) | |  [![](/assets/images/donders_logo.svg)](https://www.ru.nl/en/donders-institute) ||
-||[![](/assets/images/logo-NIAS_rood.png)](https://nias.knaw.nl) | | [![](/assets/images/lorentz.jpg)](https://www.lorentzcenter.nl) ||
-|| [![](/assets/images/it-vest.jpg)](https://www.it-vest.dk)
+|| [![](/workshop/assets/images/ccs.webp)](https://www.ru.nl/en/departments/donders-centre-for-cognition/computational-cognitive-science) | | [![](/workshop/assets/images/Aarhus.png)](https://international.au.dk) ||
+|| [![](/workshop/assets/images/ru_logo.svg)](https://www.ru.nl) | |  [![](/workshop/assets/images/donders_logo.svg)](https://www.ru.nl/en/donders-institute) ||
+||[![](/workshop/assets/images/logo-NIAS_rood.png)](https://nias.knaw.nl) | | [![](/workshop/assets/images/lorentz.jpg)](https://www.lorentzcenter.nl) ||
+|| [![](/workshop/assets/images/it-vest.jpg)](https://www.it-vest.dk)
