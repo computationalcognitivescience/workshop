@@ -15,7 +15,7 @@ Cognitive and/or psychological theories often start as verbal descriptions of ob
 
 A theoretical model describes, in a precise (formal) language, how we think that (a part of) cognition or behavior may work. In this workshop, you will learn to build such formal models. Afterwards, you can use the acquired formal modeling skills to develop your own theoretical models in your domain of interest in cognitive science or psychology.
 
-The Theoretical Modeling Workshop is open to interested master's students and PhD candidates. Check out the full schedule below. Please note that all times for the contact sessions listed below are [CEST](https://en.wikipedia.org/wiki/Central_European_Summer_Time).
+The Theoretical Modeling Workshop is open to interested master's students and PhD candidates. Check out the [full schedule](#schedule) below. Please note that all times for the contact sessions listed below are [CEST](https://en.wikipedia.org/wiki/Central_European_Summer_Time).
 
 The workshop will take place between September 4 and October 16. Physical presence in Nijmegen is not required in order to participate, as all of the contact sessions will be held online.
 
