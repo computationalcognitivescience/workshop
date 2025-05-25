@@ -71,11 +71,8 @@ Week | Date and time | Activity type | Activity
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Moulshree.jpg" alt="Moulshree">
 </figure>
 
-**Moulshree Rana** 
+**Moulshree Rana** is a PhD candidate at the Donders Center for Cognition with the [Cognition of Multilingualism lab](https://lemhoferbilingualismlab.wordpress.com). Her background is in cognitive science and psychology and her research focuses on how people learn the grammar of a new language. 
 
-<br> 
-<br>
-<br>
 <br>
 
 ## License
