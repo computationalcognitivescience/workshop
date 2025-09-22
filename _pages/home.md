@@ -31,12 +31,12 @@ Week | Date and time | Activity type | Activity
 | Thursday, September 11, 13.30–15.30 | :busts_in_silhouette: | Welcome meeting | 
 **2** | | :book: | Read [Chapter 3](https://computationalcognitivescience.github.io/lovelace/part_ii/math) and [Chapter 5](https://computationalcognitivescience.github.io/lovelace/part_ii/subset) (optional: [van Rooij and Blokpoel (2020)](https://doi.org/10.1027/1864-9335/a000428) [:page_facing_up:](https://osf.io/r2zqy/download/))
 **3** | Thursday, September 25, 13.30–16.30 | :busts_in_silhouette: :pencil: | Formalization Practice I | 
-**4** | | :pencil: | Read feedback on the first formalisation practice exercise | 
-**5** | Thursday, October 2, 13.30–16.30 | :busts_in_silhouette: :pencil: | Formalization Practice II | 
-**6** | | :book: :pencil: | Select and read a paper for the assessment exercise (optional: [Hahn et al. 2003](https://doi.org/10.1016/S0010-0277(02)00184-1) [:page_facing_up:](https://pcl.sitehost.iu.edu/rgoldsto/courses/concepts/hahnsim.pdf) or a different paper in your domain of interest) |
+| | | :pencil: | Read feedback on the first formalisation practice exercise | 
+**4** | Thursday, October 2, 13.30–16.30 | :busts_in_silhouette: :pencil: | Formalization Practice II | 
+**5** | | :book: :pencil: | Select and read a paper for the assessment exercise (optional: [Hahn et al. 2003](https://doi.org/10.1016/S0010-0277(02)00184-1) [:page_facing_up:](https://pcl.sitehost.iu.edu/rgoldsto/courses/concepts/hahnsim.pdf) or a different paper in your domain of interest) |
 | | :pencil: | Start working on the assessment exercise |
-**7** | | :pencil: | Finish working on the assessment exercise | 
-**8** | October 30, 13.30–15.30 | :busts_in_silhouette: | Closing session with QA, reflections, discussion, feedback |
+**6** | | :pencil: | Finish working on the assessment exercise | 
+**7** | October 30, 13.30–15.30 | :busts_in_silhouette: | Closing session with QA, reflections, discussion, feedback |
 
 
 
